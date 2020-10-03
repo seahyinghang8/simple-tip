@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="navy">#0F1626</color>
+    <color name="leather">#AB987A</color>
+    <color name="coral">#FF533D</color>
+    <color name="eggshell">#F5F5F5</color>
 </resources>
