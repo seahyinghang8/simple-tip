@@ -5,7 +5,7 @@
         <item name="windowNoTitle">true</item>
         <item name="colorPrimary">@color/leather</item>
         <item name="colorPrimaryDark">@color/navy</item>
-        <item name="colorAccent">@color/navy</item>
+        <item name="colorAccent">@color/leather</item>
         <item name="android:colorBackground">@color/navy</item>
     </style>
 

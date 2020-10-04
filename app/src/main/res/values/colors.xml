@@ -4,4 +4,7 @@
     <color name="leather">#AB987A</color>
     <color name="coral">#FF533D</color>
     <color name="eggshell">#F5F5F5</color>
+    <color name="hint">#80F5F5F5</color>
+    <color name="worstTip">#B43918</color>
+    <color name="bestTip">#35BA01</color>
 </resources>
